@@ -1,0 +1,43 @@
+* {
+    background-color: black;
+    text-align: center;
+}
+nav a{
+    color: lavender;
+    text-decoration: none;
+    border: 1px solid lavender;
+    display: inline-block;
+    padding: 5px;
+    margin-left: 230px;
+    margin-right: 230px
+}
+header {
+    color: lavender;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 10px solid lavender;
+    margin: 50px;
+    padding: 5px;
+}
+main h1 {
+    color: lavender;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 10px solid lavender;
+    margin: 50px;
+    padding: 5px;
+}
+p {
+    color: lavender;
+    margin: 200px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 10px solid lavender;
+    padding: 5px;
+}
+h2 {
+    color: lavender;
+}
